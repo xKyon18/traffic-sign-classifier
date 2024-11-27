@@ -1,6 +1,6 @@
 1.  Process Data
-   -  convert dataset into right dimensions
-   -  compile and store(pickle) dataset
+   -  convert dataset into right dimensions DONE
+   -  compile and store(pickle) dataset DONE
 2.  Image Manipulation
   -  Flip Image (Vertical, Horizontal, Both) 
   -  Augment Image
