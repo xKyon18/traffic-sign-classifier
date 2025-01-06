@@ -1,12 +1,12 @@
-1.  Process Data
+1.  Process Data DONE
    -  convert dataset into right dimensions DONE
    -  compile and store(pickle) dataset DONE
-2.  Image Manipulation
-  -  Flip Image (Vertical, Horizontal, Both) 
-  -  Augment Image
-  -  Adjust Contrast
-  -  Convert to black and white (when dataset is balanced)
-3.  Make Model in Pytorch
+2.  Image Manipulation DONE
+  -  Flip Image (Vertical, Horizontal, Both) DONE
+  -  Augment Image DONE
+  -  Adjust Contrast DONE
+  -  Convert to black and white (when dataset is balanced) DONE
+3.  Make Model in Pytorch ONGOING
 4.  Pre-train Model
 5.  Save Model if satisfied with Accuracy
 6.  Make C++ program for test
