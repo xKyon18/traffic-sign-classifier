@@ -1,0 +1,44 @@
+,ClassId,SignName,Sample
+0,0,Speed limit (20km/h),210
+1,1,Speed limit (30km/h),2220
+2,2,Speed limit (50km/h),2250
+3,3,Speed limit (60km/h),1410
+4,4,Speed limit (70km/h),1980
+5,5,Speed limit (80km/h),1860
+6,6,End of speed limit (80km/h),420
+7,7,Speed limit (100km/h),1440
+8,8,Speed limit (120km/h),1410
+9,9,No passing,1470
+10,10,No passing for vechiles over 3.5 metric tons,2010
+11,11,Right-of-way at the next intersection,1320
+12,12,Priority road,2100
+13,13,Yield,2160
+14,14,Stop,780
+15,15,No vechiles,630
+16,16,Vechiles over 3.5 metric tons prohibited,420
+17,17,No entry,1110
+18,18,General caution,1200
+19,19,Dangerous curve to the left,210
+20,20,Dangerous curve to the right,360
+21,21,Double curve,330
+22,22,Bumpy road,390
+23,23,Slippery road,510
+24,24,Road narrows on the right,270
+25,25,Road work,1500
+26,26,Traffic signals,600
+27,27,Pedestrians,240
+28,28,Children crossing,540
+29,29,Bicycles crossing,270
+30,30,Beware of ice/snow,450
+31,31,Wild animals crossing,780
+32,32,End of all speed and passing limits,240
+33,33,Turn right ahead,689
+34,34,Turn left ahead,420
+35,35,Ahead only,1200
+36,36,Go straight or right,390
+37,37,Go straight or left,210
+38,38,Keep right,2070
+39,39,Keep left,300
+40,40,Roundabout mandatory,360
+41,41,End of no passing,240
+42,42,End of no passing by vechiles over 3.5 metric tons,240
