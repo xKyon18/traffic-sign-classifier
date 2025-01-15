@@ -17,7 +17,7 @@ The GTSRB dataset is used to train and evaluate the ML model. The dataset is ava
 
 <p align='center'><img src='Images/original_images.jpg'></p>
 
-## Model Architecture (in order)
+## Model Architecture
 
 The model is based on a Convolutional Neural Network (CNN) that consists of several convolutional layers followed by fully connected layers:
 
@@ -39,7 +39,7 @@ The Training involves:
 
 ## Results
 
-* Model achieved ~97% accuracy on the test set after 50 epochs with 100 batch size.
+* Model achieved ~<b>97</b> accuracy on the test set after 50 epochs with 100 batch size.
 * Sample results can be viewed in the notebook file.
 
 ## Future Enhancements
