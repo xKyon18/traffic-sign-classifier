@@ -15,7 +15,7 @@ The GTSRB dataset is used to train and evaluate the ML model. The dataset is ava
 * Training Data consist of ~40,000 images.
 * Testing Data consist of 12,000+ images.
 
-<p align='center'><img src='Images/original_images.jpg></p>
+<p align='center'><img src='Images/original_images.jpg'></p>
 
 ## Model Architecture (in order)
 
