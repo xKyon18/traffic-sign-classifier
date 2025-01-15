@@ -39,7 +39,7 @@ The Training involves:
 
 ## Results
 
-* Model achieved ~<b>97</b> accuracy on the test set after 50 epochs with 100 batch size.
+* Model achieved ~<b>97%</b> accuracy on the test set after 50 epochs with 100 batch size.
 * Sample results can be viewed in the notebook file.
 
 ## Future Enhancements
